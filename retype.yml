@@ -2,7 +2,7 @@ input: ./src
 url: http://wiki.scarlettrobotics.com
 favicon:  assets/SLogo.png
 branding:
-  title: Scarlett Robotics
+  title: Digital Footprints
   label: FTC Wiki
   logo:  assets/LLogo.png
   colors:
@@ -10,40 +10,25 @@ branding:
       text: "#ffffff"
       background: "#fd0101"
 edit:
-  repo: "https://github.com/ScarlettRobotics/wiki/edit/"
+  repo: "https://github.com/Web-learning/wiki/edit/"
   base: /src
   label: Edit
 editor:
   enabled: true
 links:
 - text: Home
-  link: https://scarlettrobotics.com
+  link: https://weblearning.co.za
   icon: home
 - text: GitHub Org
-  link: https://github.com/ScarlettRobotics/
+  link: https://github.com/Web-learning/
   icon: mark-github
 - text: Instagram
-  link: https://instagram.com/scarlettrobotics
+  link: https://instagram.com/weblearning
   icon: device-camera
-- text: 20718
-  link: https://ftc-events.firstinspires.org/team/20718
-  icon: trophy
-- text: 22531
-  link: https://ftc-events.firstinspires.org/team/22531
-  icon: trophy
-- text: FIRST
-  link: https://firstinspires.org
-  icon: dependabot
-- text: FTC Game
-  link: https://www.firstinspires.org/robotics/ftc/game-and-season
-  icon: book
-- text: FIRST Alberta
-  link: https://firstalberta.ca/ftc-events/
-  icon: location  
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 meta:
-  title: " | Scarlett Robotics Wiki"
+  title: " | Digital Footrints Wiki"
 search:
   noResultsFoundMsg: "Sorry, we can't find anything."
   hotkeys:

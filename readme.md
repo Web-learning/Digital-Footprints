@@ -1,5 +1,5 @@
-# Scarlett Robotics Team Wiki
-This wiki is designed to help teach new members everything about how to build a robot. This can be used as a training & teaching tool for new members, or as a way to kickstart the team should something happen to disrupt the team's ability to function.
+# DH OER Footprints
+This DH OER resources is intended to help academics to build their digital footprints. This resources can be used as a training & teaching tool, or as a way to kickstart their own profile, should something happen to their instiutional webpage.
 
 **FTC Wiki:**
 wiki.scarlettrobotics.com

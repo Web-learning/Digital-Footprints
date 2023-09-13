@@ -4,17 +4,37 @@ icon: "book"
 
 # Welcome!
 
-Welcome to the Scarlett Robotics FTC Wiki. We are a High School *FIRST Tech Challenge Team* based out of Calgary, Alberta. Our team numbers are **20718** and **22531**. 
 
-The wiki is seperated into sections coresponding to different aspects of our FTC team. These sections corespond to our "sub-teams".  
+**Writing an online profile for yourself can be hard.**
+To help you get going, I'd like you to jot down some :memo: details that might help the reader understand who you are
+- [ ] Full Name: 
+- [ ] Title: 
+- [ ] Position:
+- [ ] Discipline:
+- [ ] Department:
+- [ ] Job Responsibilities:
+- [ ] Highest Qualification:
+- [ ] Year of appointment:
+- [ ] Contact Details
+- [ ] Location:
+- [ ] Work Phone: 
+- [ ] Email: 
+
+**After collecting this information, you can make a start on a small bio statement**.  A bio statement is often used to share information about yourself. You will see them on boook jackets, conference proceedings or on a website. They can be written  either be in the first or third person
+
+
+## **First Person**
+I’m (:memo: ~~title~~ ~~full name~~) of (:memo: ~~discipline~~) in the (~~department~~) at (~~Institution~~) since (~~year of appointment~~).  As (position) I am involved in (job responsibilities). You can find my office at (location) or you can contact me at (email). I am interested in (teaching / research interests). Recently I was honoured to be awarded the (notable awards and honours) for my work on (scholarly project),
+
+## **Third Person**
+(Full title and your name) is a (position) in the (department) at (Institution). S/he received her (postgraduate degree) from (university) in (year). S/he is interested in (research or teaching interests ) and has been published about (research interests in a larger field of study)  in (journals in which you’ve published). You can contact (Full title and your name) during office hours and make an appointment via (email), (work phone). His/her office is at (location). 
 
 !!!warning Work In Progress
-This Wiki is still a work in progress. There may be issues with the current content, or may be missing important details.
-Please contact the team on Slack for suggestions/requests.
+A bio statement is a work in progress. This is an example, than might have issues, or may be missing important details.
 !!!
 
-## Build
-Build team assumes the role of the constructors of the team. They build the robots frame and various subsystems. They are also responsible for wiring the robot. Often seen in their natural habitat surrounded by tools and metal. They communicate through a series of grunts and metal screeching sounds.
+## Build your footprints
+You can use the following H5P tool to build your footprints.
 
 [!button icon="arrow-right" iconAlign="right" text="Learn More"](/build)
 

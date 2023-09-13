@@ -3,14 +3,14 @@ url: http://wiki.scarlettrobotics.com
 favicon:  assets/SLogo.jpg
 branding:
   title: Digital Footprints
-  label: FTC Wiki
+  label: 
   logo:  assets/LLogo.jpg
   colors:
     label: 
       text: "#ffffff"
       background: "#fd0101"
 edit:
-  repo: "https://github.com/Web-learning/wiki/edit/"
+  repo: "https://github.com/Web-learning/Digital-Footprints"
   base: /src
   label: Edit
 editor:
@@ -26,9 +26,9 @@ links:
   link: https://instagram.com/weblearning
   icon: device-camera
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "CC BY"
 meta:
-  title: " | Digital Footrints Wiki"
+  title: " | Digital Footrints"
 search:
   noResultsFoundMsg: "Sorry, we can't find anything."
   hotkeys:

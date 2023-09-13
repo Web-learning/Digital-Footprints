@@ -30,3 +30,6 @@ Once you are happy with the changes, simply push changes to the main branch on G
 
 ## Building
 Once pushed to the main branch on GitHub, the wiki will automatically build and serve on the live website.
+
+## Credits
+This resource was forked from ScarlettRobotics/wiki

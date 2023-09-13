@@ -1,9 +1,6 @@
 # DH OER Footprints
 This DH OER resources is intended to help academics to build their digital footprints. This resources can be used as a training & teaching tool, or as a way to kickstart their own profile, should something happen to their instiutional webpage.
 
-**FTC Wiki:**
-wiki.scarlettrobotics.com
-
 ## Contributing
 Contributing to the wiki is super easy. Simply edit or add a markdown (.md) file to the src folder.
 

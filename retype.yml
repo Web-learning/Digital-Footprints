@@ -1,10 +1,10 @@
 input: ./src
 url: http://wiki.scarlettrobotics.com
-favicon:  assets/SLogo.png
+favicon:  assets/SLogo.jpg
 branding:
   title: Digital Footprints
   label: FTC Wiki
-  logo:  assets/LLogo.png
+  logo:  assets/LLogo.jpg
   colors:
     label: 
       text: "#ffffff"

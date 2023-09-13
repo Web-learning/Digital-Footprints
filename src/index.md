@@ -6,7 +6,10 @@ icon: "book"
 
 
 **Writing an online profile for yourself can be hard.**
-To help you get going, I'd like you to jot down some :memo: details that might help the reader understand who you are
+To help you get going, I'd like you to jot down some :memo: key details that might help the reader understand who you are.
+
+## **Professional Details**
+
 - [ ] Full Name: 
 - [ ] Title: 
 - [ ] Position:
@@ -24,7 +27,7 @@ To help you get going, I'd like you to jot down some :memo: details that might h
 
 
 ## **First Person**
-I’m (:memo: ~~title~~ ~~full name~~) of (:memo: ~~discipline~~) in the (~~department~~) at (~~Institution~~) since (~~year of appointment~~).  As (position) I am involved in (job responsibilities). You can find my office at (location) or you can contact me at (email). I am interested in (teaching / research interests). Recently I was honoured to be awarded the (notable awards and honours) for my work on (scholarly project),
+I’m (:memo: ~~title~~ ~~full name~~) of (:memo: ~~discipline~~) in the (:memo: ~~department~~) at (~~Institution~~) since (:memo: ~~year of appointment~~).  As (:memo: ~~position) I am involved in (:memo: ~~list job responsibilities~~). You can find my office at (:memo: ~~location~~) or you can contact me at (:memo: ~~email~~). I am interested in (:memo: ~~list interests~~). Recently I was honoured to be awarded the (:memo: ~~notable awards and honours~~) for my work on (:memo: ~~scholarly project~~)
 
 ## **Third Person**
 (Full title and your name) is a (position) in the (department) at (Institution). S/he received her (postgraduate degree) from (university) in (year). S/he is interested in (research or teaching interests ) and has been published about (research interests in a larger field of study)  in (journals in which you’ve published). You can contact (Full title and your name) during office hours and make an appointment via (email), (work phone). His/her office is at (location). 

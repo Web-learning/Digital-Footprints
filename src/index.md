@@ -4,9 +4,15 @@ icon: "book"
 
 # Welcome!
 
+:wave: Hi there
 
 **Writing an online profile for yourself can be hard.**
-To help you get going, I'd like you to jot down some :memo: key details that might help the reader understand who you are.
+You don't have to start from a blank page. To help you get going with your profile... 
+
+## **First Draft**
+
+
+I'd like you to jot down some :memo: **key professional details**. These might prompt you to remember key aspects of yourself. That you might include [^1] in your bio. They will assist the reader to understand more about you.
 
 ## **Professional Details**
 
@@ -33,32 +39,29 @@ I’m (:memo: ~~title~~ ~~full name~~) of (:memo: ~~discipline~~) in the (:memo:
 (Full title and your name) is a (position) in the (department) at (Institution). S/he received her (postgraduate degree) from (university) in (year). S/he is interested in (research or teaching interests ) and has been published about (research interests in a larger field of study)  in (journals in which you’ve published). You can contact (Full title and your name) during office hours and make an appointment via (email), (work phone). His/her office is at (location). 
 
 !!!warning Work In Progress
-A bio statement is a work in progress. This is an example, than might have issues, or may be missing important details.
+A bio statement is a work in progress. This is a draft example. It might have issues. Or be  missing important details.
 !!!
 
-## Build your footprints
-You can use the following H5P tool to build your footprints.
+## Customising your Code 
+There are many ways in which you could improve your digital profile and create more footprints
+ 1. Byline
+ 2. Bio Picture
+ 3. Project Banner
+
+You might also use the following H5P tool to build a story about your work and expand your footprints.
+
+[!button icon="arrow-right" iconAlign="right" text="Learn More"](/code)
+
+## Growing your Networks
+You are your own PR. And it is possible to create  and maintaining connections accross your discipline, communities, or interestes. As well as contacting funders.
+
+[!button icon="arrow-right" iconAlign="right" text="Learn More"](/network)
+
+## Platform Building
+Designing and customising a platform. Means that you have a hub, where your can present the many parts of your professinal and personal lives.
 
 [!button icon="arrow-right" iconAlign="right" text="Learn More"](/build)
 
-## Code
-The Code sub-team are entrusted with making the robot have a brain. Often communicating through beeps and robotic screeching. Do not enter their workspace without energy drinks and sugar.
-
-[!button icon="arrow-right" iconAlign="right" text="Learn More"](/code) 
-
-## Design
-Design is our sub-team responsible for 3d modelling our parts, running the 3d printers and running simulations of the robot. They are a subgenus of the Code genus.
-
-[!button icon="arrow-right" iconAlign="right" text="Learn More"](/design)
-
-## Drivers
-I drive.
-
-[!button icon="arrow-right" iconAlign="right" text="Learn More"](/drive)
 
 
-
-## Public Relations
-The PR team is in charge of creating and maintaining connections within our school and local communities, as well as contacting sponsors and running fundraisers. Insert funny sentence here.
-
-[!button icon="arrow-right" iconAlign="right" text="Learn More"](/pr)
+[^1]: These are all suggestions. Please adapt freely.

@@ -2,7 +2,7 @@
 icon: "container"
 expanded: false
 ---
-# Network 
+# Growing a Network 
 Your network is an integral part of your digital identity. As a member of Personal Learning Network, you will be required to:
 * Link to some of your profiles.
 * Link to fellow members.

@@ -2,7 +2,7 @@
 icon: "tools"
 expanded: false
 ---
-# Platforms
+# Platforms Building
 The platform that you choose to use is an integral part of your identity. Once you choose a platform. You will be required to:
 * Work with tools, materials, and other parts to digital footprint
 * Help develop your thoughts and ideas 

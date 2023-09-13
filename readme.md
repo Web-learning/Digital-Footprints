@@ -1,12 +1,12 @@
 # DH OER Footprints
-This DH OER resources is intended to help academics to build their digital footprints. This resources can be used as a training & teaching tool, or as a way to kickstart their own profile, should something happen to their instiutional webpage.
+This DH OER resources is intended to help academics to build their digital footprints. This resources can be used as a training & teaching tool, or as a way to kickstart their own profile, should the want to do something more than post thrir details on the instiutional webpage.
 
 ## Contributing
-Contributing to the wiki is super easy. Simply edit or add a markdown (.md) file to the src folder.
+Making. hanges to the DH OER resources is super easy. Simply edit or add a markdown (.md) file to the src folder.
 
 Markdown is designed to be easily read and understood by anyone. To learn more about markdown formatting, see [this link](https://www.markdownguide.org/).
 
-Retype, the wiki software used has additional formatting tools. To learn more about retype, see [this link](https://retype.com/components/).
+Retype, the software used to create this resource. Has more formatting tools. To learn more about retype, see [this link](https://retype.com/components/).
 
 ## Local Server
 To see changes you make rendered on a local website in real time, follow the instructions below.
@@ -29,4 +29,4 @@ Once you are happy with the changes, simply push changes to the main branch on G
 Once pushed to the main branch on GitHub, the wiki will automatically build and serve on the live website.
 
 ## Credits
-This resource was forked from ScarlettRobotics/wiki
+This structure for this DH OER resourc,  was forked from ScarlettRobotics/wiki
